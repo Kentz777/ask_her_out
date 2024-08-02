@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <div>
-        <h1 className="header_text">Hi navvss kita tayo bukas???</h1>
+        <h1 className="header_text">Hi navvsss kita tayo bukas???</h1>
         <h1 className="header_text">Hehehe simge naa :D</h1>
       </div>
       <div className="gif_container">
